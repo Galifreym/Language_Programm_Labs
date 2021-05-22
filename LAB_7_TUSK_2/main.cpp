@@ -80,7 +80,5 @@ int main ()
             th_8.join();
         }
     }
-    unsigned int end_time = clock();
-    cout << end_time << endl;
     return 0;
 }
